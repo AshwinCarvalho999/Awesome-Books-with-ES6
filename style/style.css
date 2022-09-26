@@ -11,7 +11,7 @@ table td {
 }
 
 table tr:nth-child(odd) {
-  background-color: grey;
+  background-color: black;
   color: white;
 }
 
@@ -66,21 +66,21 @@ form input {
 
 .nav-item {
   float: left;
-  font-size: 13px;
+  font-size: 1rem;
 }
 
 .nav-item a {
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 12px 30px;
   text-decoration: none;
   border: none;
 }
 
 .nav-item a:hover {
-  text-decoration: underline;
-  color: blue;
+color: white;
+background-color: black;
 }
 
 .nav-item a:active {
@@ -98,6 +98,7 @@ nav {
 
 nav span {
   font-size: 45px;
+  margin-left: 1rem;
 }
 
 .nav-container {
