@@ -79,8 +79,8 @@ form input {
 }
 
 .nav-item a:hover {
-color: white;
-background-color: black;
+  color: white;
+  background-color: black;
 }
 
 .nav-item a:active {
