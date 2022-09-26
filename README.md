@@ -2,7 +2,7 @@
 
 # Awesome Books
 
-> Js project to create Favourite Book list with ES6 modules.
+> JS project to create Favourite Book list with ES6 modules.
 
 ## Built With
 
